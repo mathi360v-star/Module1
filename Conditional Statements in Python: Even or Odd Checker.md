@@ -12,7 +12,10 @@ To write a Python program to check whether the given number is **even** or **odd
 4. End the program.
 
 ## 🧾 Program
+```
+```
 
 ## Output
 
 ## Result
+To write a Python program to check whether the given number is **even** or **odd** using `if...else` statements is executed.
